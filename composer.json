@@ -1,0 +1,13 @@
+{
+    "name": "benepfist/packagedemo",
+    "description": "This is a test package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benedict Pfisterer",
+            "email": "pfisterer-bene@t-online.de",
+            "homepage": "http://www.benedict-pfisterer.ag.vu",
+            "role": "developer"
+        }
+    ]
+}
