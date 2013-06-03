@@ -1,0 +1,4 @@
+packagedemo
+===========
+
+packagedemo for composer
