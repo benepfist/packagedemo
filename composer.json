@@ -13,10 +13,18 @@
     "autoload": {
         "psr-0": {"Core": "src/"}
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "dev"
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "version": "master",
+                "name": "benepfist/packagedemo",
+                "source": {
+                    "url": "https://github.com/benepfist/packagedemo.git",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
         }
-    },
-    "minimum-stability": "dev"
+    ]
 }
