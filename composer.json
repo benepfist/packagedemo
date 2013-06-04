@@ -12,5 +12,11 @@
     ],
     "autoload": {
         "psr-0": {"Core": "src/"}
-    }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "dev"
+        }
+    },
+    "minimum-stability": "dev"
 }
